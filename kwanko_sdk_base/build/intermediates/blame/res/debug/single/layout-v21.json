@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\Kwanko\\SourceCode\\kwanko_sdk_base\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\erusu\\.android\\build-cache\\92869e42893af764bc03755126128a587259acdc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Kwanko\\SourceCode\\kwanko_sdk_base\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\erusu\\.android\\build-cache\\92869e42893af764bc03755126128a587259acdc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Kwanko\\SourceCode\\kwanko_sdk_base\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\erusu\\.android\\build-cache\\92869e42893af764bc03755126128a587259acdc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Kwanko\\SourceCode\\kwanko_sdk_base\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\erusu\\.android\\build-cache\\92869e42893af764bc03755126128a587259acdc\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

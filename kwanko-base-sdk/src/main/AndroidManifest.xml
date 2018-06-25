@@ -1,0 +1,23 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.ads.kwanko.kwankoandroidsdk.base">
+
+    <application >
+
+        <activity android:name="fr.kwanko.InterstitialAdActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name="fr.kwanko.internal.overly.OverlyActivity"
+            android:theme="@style/Kwanko.Theme.Transparent"/>
+        <activity
+            android:name="fr.kwanko.bridge.OpenAdWebViewActivity"
+            android:theme="@style/KwankoWebViewActivityTheme"
+            />
+        <activity android:name="fr.kwanko.internal.mraid.video.MraidVideoActivity"/>
+
+        <activity android:name="fr.kwanko.common.permissions.request.activity.TransparentActivity"
+            android:exported="false"
+            android:theme="@style/Kwanko.Theme.Transparent"/>
+    </application>
+
+</manifest>

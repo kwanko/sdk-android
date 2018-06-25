@@ -1,0 +1,5 @@
+projectKey=Kwanko-Sdk
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Kwanko-Sdk
+ceTaskId=AVupLZZbdkq0rCAONA8B
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVupLZZbdkq0rCAONA8B

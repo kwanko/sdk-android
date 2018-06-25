@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="urf_turn_location_on_title">Location</string>
+    <string name="urf_turn_location_message">Do you want to enable location?</string>
+</resources>

@@ -1,0 +1,14 @@
+apply plugin: 'com.android.library'
+
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+ext{
+    //compile
+    csv = 25
+    //support
+	slv = '25.3.1'
+}

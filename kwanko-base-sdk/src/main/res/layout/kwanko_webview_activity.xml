@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:navigationIcon="@drawable/kwanko_ic_close_white"
+        android:background="@color/kwanko_toolbar_default_color"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"/>
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
